@@ -28,6 +28,28 @@
 ### Item_Outlet_Sales : Sales of the product in the particular store. This is the outcome variable to be predicted.
 
 
+
+
+## Tools Used:
+### 1. Python 
+### 2. Numpy, Pandas
+### 3. Matplotlib, Seaborn, Plotly
+### 4. Sklearn
+### 5. Logging
+### 7. Html, CSS
+### 8. Flask
+### 9. Cassandra Database
+### 10. Heroku
+
+
+
+
+## Platforms Used:
+### Jupyter Notebook, Spyder, Github, Heroku 
+
+
+
+
 ## Operations Performes:
 ### 1. Data Collection: 
 #### -> Data is taken from kaggle which is a Store Sales Dataset.
@@ -57,3 +79,11 @@
 
 ## Model Deployment Link:
 #### -> Heroku Link: https://store-sales-predictor.herokuapp.com/
+
+
+
+## User Interface:
+![](../main/static/images/sales_interface.png)
+
+## Data In Database:
+![](../main/static/images/Database_data.png)
