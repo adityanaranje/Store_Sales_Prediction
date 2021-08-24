@@ -83,7 +83,7 @@
 
 
 ## User Interface:
-![](../main/static/images/sales_interface.png)
+![](https://github.com/adityanaranje/Store_Sales_Prediction/blob/main/static/image/sales_interface.jpg)
 
 ## Data In Database:
-![](../main/static/images/Database_data.png)
+![](https://github.com/adityanaranje/Store_Sales_Prediction/blob/main/static/image/Database_data.jpg)
