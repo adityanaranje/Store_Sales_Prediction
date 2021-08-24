@@ -1,0 +1,168 @@
+<!doctype html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+	
+	body {
+	background-image: url(static/image/house2.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	}
+    
+	button {
+        display: inline-block;
+        background-color: #d9d9d9;
+        border-radius: 10px;
+        border: 4px double #cccccc;
+        color: #000000;
+        text-align: center;
+        font-size: 25px;
+        padding: 15px;
+        width: 180px;
+        transition: all 0.1s;
+        cursor: pointer;
+        margin: 7px;
+      }
+      button span {
+        cursor: pointer;
+        display: inline-block;
+        position: relative;
+        transition: 0.5s;
+      }
+      button span:after {
+        content: '\00bb';
+        position: absolute;
+        opacity: 0;
+        top: 0;
+        right: -20px;
+        transition: 0.5s;
+      }
+      button:hover {
+        background-color: #404040;
+        color: #ffffff;
+      }
+      button:hover span {
+        padding-right: 25px;
+      }
+      button:hover span:after {
+        opacity: 1;
+        right: 0;
+      }
+	
+	
+	.label1 {
+    position: relative;
+    top: 5px;
+  	color: #e6e6e6;
+  	padding: 10px;
+  	font-family: Arial;
+	font-weight:bold;
+    font-size: 18px;
+	}
+    
+   
+    
+	input {
+      background-color: #595959;
+      border: none;
+      color: white;
+      padding: 5px 25px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+
+
+      select {
+    padding: 2px 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #595959;
+    color: white;
+ 	 }
+
+	.head{
+	color:white;
+	font-size:50px;
+	font-weight:bold;
+	top:40px;
+	font-style:"Times New Roman";
+	}
+
+</style>
+</head>
+
+<body>
+<div>
+	<center>
+	<form action="/result" method="POST">
+	<a class="head">
+	<h2 > STORE SALES PREDICTOR </h2></a>
+    <span class="label1">
+	<label for="Item Weight">Item Weight</label>
+	<input type="text" id="myTextBox1" name = "Item Weight" required="required">
+	<br>
+
+	<label for="Item MRP">Item MRP</label>
+	<input type="text" id="myTextBox1" name = "Item MRP" required="required">
+	<br>
+
+	<label for="Outlet Location Type">Outlet Location Type</label>
+	<select id="myTextBox1" name="Outlet Location Type">
+	<option value="1">Type 1</option>
+	<option value="2">Type 2</option>
+	<option value="3">Type 3</option>
+	</select>
+	<br>
+
+	<label for="Item Visibility">Item Visibility</label>
+	<input type="text" id="myTextBox1" name = "Item Visibility" required="required">
+	<br>
+
+	<label for="Item Fat Content" >Item Fat Content</label>
+	<select id="myTextBox1" name="Item Fat Content">
+	<option value="0">Low Fat</option>
+	<option value="1">Regular</option>
+	</select>
+	<br>
+	
+
+	<label for="Item Type">Item Type</label>
+	<select id="myTextBox1" name="Item Type">
+	<option value="0">Drinks</option>
+	<option value="1">Food</option>
+	<option value="2">Others</option>
+	</select>
+	<br>
+
+	<label for="Outlet Size">Outlet Size</label>
+	<select id="myTextBox1" name="Outlet Size">
+	<option value="0">Small</option>
+	<option value="1">Medium</option>
+	<option value="2">High</option>
+	</select>
+	<br>
+
+	<label for="Outlet Type">Outlet Type</label>
+	<select id="myTextBox1" name="Outlet Type">
+	<option value="0">Grocery Store</option>
+	<option value="1">Supermarket Type 1</option>
+	<option value="2">Supermarket Type 2</option>
+	<option value="3">Supermarket Type 3</option>
+	</select>
+	<br>
+	
+
+	<button>
+      	<span>PREDICT</span>
+    	</button>
+	
+	<a class="head">
+      <h5 > Created By Aditya Naranje </h5></a>
+
+	</center>
+</div>
+</body>
+</html>
