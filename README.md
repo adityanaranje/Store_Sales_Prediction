@@ -87,3 +87,7 @@
 
 ## Data In Database:
 ![](https://github.com/adityanaranje/Store_Sales_Prediction/blob/main/static/image/Database_data.jpg)
+
+
+## High Level Design (HLD)
+https://drive.google.com/file/d/1LobvZPLMR8NiTgL7DbSntw5CcmYbJ2Od/view?usp=sharing
