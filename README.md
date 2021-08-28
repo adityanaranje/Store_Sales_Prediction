@@ -91,3 +91,7 @@
 
 ## High Level Design (HLD)
 https://drive.google.com/file/d/1gD1E-nLN9FZIsrCl4pT73ASjN2a2Ecsv/view?usp=sharing
+
+
+## Low Level Design (LLD)
+https://drive.google.com/file/d/1jCoclqPnYnkD71jeSHkNXXO9LF4Idn3e/view?usp=sharing
