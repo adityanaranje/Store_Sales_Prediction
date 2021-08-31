@@ -82,6 +82,7 @@
 
 ## Model Deployment Link:
 #### -> Heroku Link: https://store-sales-predictor.herokuapp.com/
+##### Have a patience it will take a little bit to load.
 
 
 
@@ -102,3 +103,8 @@ https://drive.google.com/file/d/1jCoclqPnYnkD71jeSHkNXXO9LF4Idn3e/view?usp=shari
 
 ## Wireframe Document
 https://drive.google.com/file/d/1rkoovjreKGkd6lL4NpKym1cDCHTM8AOm/view?usp=sharing
+
+
+
+### Please feel free to inform me about any error or difficulty in my repositery.
+# Thank You
