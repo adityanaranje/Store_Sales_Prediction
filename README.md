@@ -106,5 +106,5 @@ https://drive.google.com/file/d/1rkoovjreKGkd6lL4NpKym1cDCHTM8AOm/view?usp=shari
 
 
 
-### Please feel free to inform me about any error or difficulty in my repositery.
+### Please feel free to inform me about any error or difficulty in my repository.
 # Thank You
