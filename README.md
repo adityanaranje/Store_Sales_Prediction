@@ -58,7 +58,8 @@
 ### 2. Data Cleaning:
 #### -> Every dataset consists of some missing values and outliers. The categorical missing values are filled with most frequent value i.e. mode while the numeric values are filled with mean. Also the outliers are treated with the mean value correspoiding to their item type.
 ### 3. Data Visualization: 
-#### -> Visualizations are performed using libraries like matplotlib, seaborn and plotly by plotting histogram, countplots, scatter plot, etc. Also simple visualizations are performed on Power Bi Dashboard. https://app.powerbi.com/links/Is9Uzs3CJH?ctid=6ea1ed1a-46b4-4653-83cf-7ecec89a3b1a&pbi_source=linkShare
+#### -> Visualizations are performed using libraries like matplotlib, seaborn and plotly by plotting histogram, countplots, scatter plot, etc. Also simple visualizations are performed on Power Bi Dashboard.
+#### Link :- https://app.powerbi.com/links/Is9Uzs3CJH?ctid=6ea1ed1a-46b4-4653-83cf-7ecec89a3b1a&pbi_source=linkShare
 ### 4. Feature Engineering: 
 #### -> We use one-hot encoding to convert categorical features to numeric data.
 ### 5. Model Training: 
