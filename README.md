@@ -81,7 +81,7 @@
 
 
 ## Model Deployment Link:
-#### -> Heroku Link: https://store-sales-predictor.herokuapp.com/
+#### -> Heroku Link: Click [Here](https://store-sales-predictor.herokuapp.com/)
 ##### Have a patience it will take a little bit to load.
 
 
