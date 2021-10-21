@@ -11,7 +11,7 @@
 ## Dataset
 ### -> We have train(8523) and test(5681) data set, train data set has both input and output variables.
 ### The dataset is taken from kaggle.
-### Link :- https://bit.ly/2V1oRKl
+### Link :- Click [Here](https://bit.ly/2V1oRKl)
 ### We need to predict the sales for test data set on data as follow.
 
 ### Features:
@@ -59,7 +59,7 @@
 #### -> Every dataset consists of some missing values and outliers. The categorical missing values are filled with most frequent value i.e. mode while the numeric values are filled with mean. Also the outliers are treated with the mean value correspoiding to their item type.
 ### 3. Data Visualization: 
 #### -> Visualizations are performed using libraries like matplotlib, seaborn and plotly by plotting histogram, countplots, scatter plot, etc. Also simple visualizations are performed on Power Bi Dashboard.
-#### Link :- https://app.powerbi.com/links/Is9Uzs3CJH?ctid=6ea1ed1a-46b4-4653-83cf-7ecec89a3b1a&pbi_source=linkShare
+#### Link :- Click [Here](https://app.powerbi.com/links/Is9Uzs3CJH?ctid=6ea1ed1a-46b4-4653-83cf-7ecec89a3b1a&pbi_source=linkShare)
 ### 4. Feature Engineering: 
 #### -> We use one-hot encoding to convert categorical features to numeric data.
 ### 5. Model Training: 
@@ -94,23 +94,23 @@
 
 
 ## High Level Design (HLD)
-https://drive.google.com/file/d/1gD1E-nLN9FZIsrCl4pT73ASjN2a2Ecsv/view?usp=sharing
+Click [Here](https://drive.google.com/file/d/1gD1E-nLN9FZIsrCl4pT73ASjN2a2Ecsv/view?usp=sharing)
 
 
 ## Low Level Design (LLD)
-https://drive.google.com/file/d/1jCoclqPnYnkD71jeSHkNXXO9LF4Idn3e/view?usp=sharing
+Click [Here](https://drive.google.com/file/d/1jCoclqPnYnkD71jeSHkNXXO9LF4Idn3e/view?usp=sharing)
 
 
 ## Archirecture
-https://drive.google.com/file/d/1-Hjh6kW1j8MW75hXg88hK2GcWyBJg3Kl/view?usp=sharing
+Click [Here](https://drive.google.com/file/d/1-Hjh6kW1j8MW75hXg88hK2GcWyBJg3Kl/view?usp=sharing)
 
 
 ## Wireframe Document
-https://drive.google.com/file/d/1rkoovjreKGkd6lL4NpKym1cDCHTM8AOm/view?usp=sharing
+Click [Here](https://drive.google.com/file/d/1rkoovjreKGkd6lL4NpKym1cDCHTM8AOm/view?usp=sharing)
 
 
 ## Project Report
-https://docs.google.com/presentation/d/1T9OjrWsSReIsp9xt9diQFmdzePlOzCHT/edit?usp=sharing&ouid=107047844624939518429&rtpof=true&sd=true
+Click [Here](https://docs.google.com/presentation/d/1T9OjrWsSReIsp9xt9diQFmdzePlOzCHT/edit?usp=sharing&ouid=107047844624939518429&rtpof=true&sd=true)
 
 ### Please feel free to inform me about any error or difficulty in my repository.
 # Thank You
